@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/egroj01/Portafolio/issues"
   },
-  "homepage": "https://github.com/egroj01/Portafolio#readme"
+  "homepage": "https://github.com/egroj01/Portafolio#readme",
+  "dependencies": {
+    "react-dom": "^16.8.6",
+    "rect": "^1.2.1"
+  }
 }
