@@ -1,9 +1,5 @@
 import {useState, useEffect } from 'react';
-<<<<<<< HEAD
-const api = 'https://raw.githubusercontent.com/egroj01/Portafolio/devel/src/utils/My-Cv.json'
-=======
 const api = 'https://raw.githubusercontent.com/egroj01/Portafolio/master/src/utils/db.js'
->>>>>>> b520896919f553d866dfc2ca58d28a30c7cb7107
 
 const useGetData = () => {
   /* Establezco mi useState
