@@ -39,15 +39,15 @@
   "skills": [
     {
     "name": "HTML5",
-    "percentage": "75%"
+    "percentage": "85%"
     },
     {
     "name": "CSS",
-    "percentage": "55%"
+    "percentage": "60%"
     },
     {
     "name": "JavaScript",
-    "percentage": "55%"
+    "percentage": "60%"
     },
     {
     "name": "React",
@@ -57,15 +57,15 @@
   "social": [
     {
     "name": "facebook",
-    "url": "https://facebook.com/"
+    "url": "https://www.facebook.com/jj.jorgecastillo"
     },
     {
     "name": "twitter",
-    "url": "https://twitter.com/"
+    "url": "https://twitter.com/jjegroj"
     },
     {
     "name": "github",
-    "url": "https://github.com/"
+    "url": "https://github.com/egroj01"
     },
     {
     "name": "linkedin",

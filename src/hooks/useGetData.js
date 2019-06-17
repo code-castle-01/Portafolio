@@ -1,5 +1,5 @@
 import {useState, useEffect } from 'react';
-const api = 'https://us-central1-gndx-cv.cloudfunctions.net/me'
+const api = 'https://raw.githubusercontent.com/egroj01/Portafolio/master/src/utils/db.js'
 
 const useGetData = () => {
   /* Establezco mi useState
