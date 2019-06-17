@@ -1,5 +1,6 @@
 import {useState, useEffect } from 'react';
-const api = 'https://raw.githubusercontent.com/egroj01/Portafolio/master/src/utils/db.js'
+// la API que voy a consumir
+const api = 'https://raw.githubusercontent.com/egroj01/Portafolio/master/src/utils/db.json'
 
 const useGetData = () => {
   /* Establezco mi useState
