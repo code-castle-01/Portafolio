@@ -1,7 +1,7 @@
 {
   "address": "Villa del Rosario, Colombia.",
   "avatar": "https://avatars3.githubusercontent.com/u/45768517?s=400&u=5cae00f5c4d851b3f5591c8887ba6eae41aea21e&v=4",
-  "bio": "Me gusta programar, leer y aprender todos los dias",
+  "bio": "Me gusta programar, leer y aprender todos los dias cosas nuevas",
   "certificate": [
     {
     "date": "Jan 2019",
