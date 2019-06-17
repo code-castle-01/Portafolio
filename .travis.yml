@@ -1,21 +1,23 @@
 language: node_js
 cache:
   directories:
-    - ~!@/.npm
+    - ~/.npm
 node_js:
-  - '8'
+  - '9'
 git:
   depth: 3
 script:
   - yarn build
-  - echo 'url-personaliza.com' > public/CNAME
+  - echo 'cv.arepa.dev' > public/CNAME
 deploy:
+  name: Elmo@gremlim
   provider: pages
   skip-cleanup: true
   keep-history: true
   github-token: $GITHUB_TOKEN
   local-dir: dist/
   target-branch: master
-  commit_message: "Implementar lanzamiento ${TRAVIS_TAG}"
+  commit_message: "Deploy release ${TRAVIS_TAG}"
+  fqdn: cv.arepa.dev
   on:
-    branch: devel
+    branch: develop
